@@ -11,7 +11,24 @@ https://github.com/wonchul-kim/Machine_Learning/blob/master/deep%20learning/opti
 https://theeluwin.postype.com/post/6080524
 
 * CNN <br/>
-https://seongkyun.github.io/study/2019/01/25/num_of_parameters/
+- CNN: https://seongkyun.github.io/study/2019/01/25/num_of_parameters/
+- downsampling(pooling or subsampling):
+   1. Max pooling
+   2. Global average pooling
+   3. convolutional layer with stride=2, kernel=3x3 .... better than others
+- upsampling(unpooling):
+   1. recover pooling: nearest neighbor unpooling, bed of nails unpooling, max unpooling
+   2. using convolutional layer's stride: transpose convolution(deconvolution, fractionally-strided convolution, upconvolution, backward strided convolution)
+
+
+https://analysisbugs.tistory.com/104
+https://zzsza.github.io/data/2018/06/25/upsampling-with-transposed-convolution/
+
+
+- dilated convolution
+- separable convolution <br/>
+https://zzsza.github.io/data/2018/02/23/introduction-convolution/
+- deformable convolution
 
 * mAP <br/>
 https://bskyvision.com/465
