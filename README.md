@@ -42,12 +42,16 @@ https://en.wikipedia.org/wiki/Kernel_(image_processing)
 * hough transform <br/>
 https://wkdtjsgur100.github.io/Hough-Transform/
 
+* ATSS <br/>
+ https://byeongjokim.github.io/posts/Bridging-the-Gap-Between-Anchor-based-and-Anchor-free-Detection-via-Adaptive-Training-Sample-Selection/
+ 
+* BiT <br/>
+https://developers-kr.googleblog.com/2020/06/open-sourcing-bit-exploring-large-scale.html
+
 * maimum likelihood <br/>
 
 * 
 
- 
-* RNN & LSTM
 
 
 
