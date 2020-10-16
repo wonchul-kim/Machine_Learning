@@ -50,7 +50,7 @@ https://developers-kr.googleblog.com/2020/06/open-sourcing-bit-exploring-large-s
 
 * maimum likelihood <br/>
 
-* 
+* http://www.gisdeveloper.co.kr/?p=8443
 
 
 
