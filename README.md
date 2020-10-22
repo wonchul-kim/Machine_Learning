@@ -52,6 +52,7 @@ https://developers-kr.googleblog.com/2020/06/open-sourcing-bit-exploring-large-s
 
 * http://www.gisdeveloper.co.kr/?p=8443
 
+* https://www.philgineer.com/2020/10/blog-post.html?fbclid=IwAR2IIJVAvyGR5JFhSXcicVZI8vbzEqTjfYSnnNm47SwuzFRGIRyAzh_MRLM
 
 
 
