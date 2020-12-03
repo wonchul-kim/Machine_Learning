@@ -65,3 +65,22 @@ https://developers-kr.googleblog.com/2020/06/open-sourcing-bit-exploring-large-s
 
 
 
+# Graph_Neural_Networks
+
+## Lectures
+* [ESE680](https://gnn.seas.upenn.edu/?fbclid=IwAR1Nvoxo5prQw_OVqxmWn8SowMX_1tfQApl3xVXGT3n2lMmf7FlOBc8Fs4o)
+
+* [CS224W](http://web.stanford.edu/class/cs224w/index.html#schedule)
+
+
+## References
+
+* https://tobigs.gitbook.io/tobigs-graph-study/
+
+* [A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3)
+
+* [The graph neural network model](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1015.7227&rep=rep1&type=pdf)
+
+* [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434.pdf)
+
+* https://www.youtube.com/watch?v=YL1jGgcY78U&list=PLSAJwo7mw8jn8iaXwT4MqLbZnS-LJwnBd&index=29&ab_channel=IdeaFactoryKAIST
