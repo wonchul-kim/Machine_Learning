@@ -1,3 +1,5 @@
+[Lagrangian Neural Networks](https://arxiv.org/pdf/2003.04630.pdf)
+
 https://github.com/kmario23/deep-learning-drizzle?fbclid=IwAR0969qFLTgHPjsI_3jrAxA_Abg4sWBXv27HQg2-FCSpSvfMsB7tTajnbSE
 
 https://www.kaggle.com/andradaolteanu/pytorch-rnns-and-lstms-explained-acc-0-99/notebook
