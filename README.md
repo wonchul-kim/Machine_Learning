@@ -1,3 +1,5 @@
+https://www.microsoft.com/en-us/research/blog/adversarial-machine-learning-and-instrumental-variables-for-flexible-causal-modeling/
+
 https://arxiv.org/abs/2011.15091?fbclid=IwAR0r5FKZqR-MiA4qS2c9LTAqSEHIguYTMf1aqXLBVu7vr9fe61mxopbQS54
 
 https://towardsdatascience.com/reformer-the-efficient-transformer-dd9830164703
