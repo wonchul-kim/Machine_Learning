@@ -1,3 +1,9 @@
+https://www.topbots.com/neurips-2020-covid-19-research-papers/?fbclid=IwAR3J8CDTLayz4GB324pFKBFCrUjcmKokeoJ8GHvuhi0iANRvbEFsBiHoy1A
+
+https://venturebeat.com/2020/12/16/at-neurips-2020-researchers-proposed-faster-more-efficient-alternatives-to-backpropagation/?fbclid=IwAR3WohvqqTDgaPNN9XiHS-PTJB6d0xEJc_0wl_ba0Cr_rqr2OdlH2qhOThM
+
+http://www.aitimes.kr/news/articleView.html?idxno=18700&fbclid=IwAR3iBZe2y8eBUmaN6_GOZMgLga968q_MCcvXtKafePUjn5cgy_h0oT-XJ6g
+
 https://www.microsoft.com/en-us/research/blog/adversarial-machine-learning-and-instrumental-variables-for-flexible-causal-modeling/
 
 https://arxiv.org/abs/2011.15091?fbclid=IwAR0r5FKZqR-MiA4qS2c9LTAqSEHIguYTMf1aqXLBVu7vr9fe61mxopbQS54
