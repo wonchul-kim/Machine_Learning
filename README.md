@@ -1,3 +1,5 @@
+https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html
+
 https://www.topbots.com/neurips-2020-covid-19-research-papers/?fbclid=IwAR3J8CDTLayz4GB324pFKBFCrUjcmKokeoJ8GHvuhi0iANRvbEFsBiHoy1A
 
 https://venturebeat.com/2020/12/16/at-neurips-2020-researchers-proposed-faster-more-efficient-alternatives-to-backpropagation/?fbclid=IwAR3WohvqqTDgaPNN9XiHS-PTJB6d0xEJc_0wl_ba0Cr_rqr2OdlH2qhOThM
