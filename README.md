@@ -1,3 +1,7 @@
+https://ai.googleblog.com/2020/12/end-to-end-transferable-deep-rl-for.html?m=1
+
+https://medium.com/@sunwoopark/slow-paper-glow-generative-flow-with-invertible-1x1-convolutions-837710116939
+
 https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html
 
 https://www.topbots.com/neurips-2020-covid-19-research-papers/?fbclid=IwAR3J8CDTLayz4GB324pFKBFCrUjcmKokeoJ8GHvuhi0iANRvbEFsBiHoy1A
