@@ -75,7 +75,7 @@ https://wkdtjsgur100.github.io/Hough-Transform/
 * BiT <br/>
 https://developers-kr.googleblog.com/2020/06/open-sourcing-bit-exploring-large-scale.html
 
-* maimum likelihood <br/>
+* [maimum likelihood](https://process-mining.tistory.com/93) <br/>
 
 * http://www.gisdeveloper.co.kr/?p=8443
 
