@@ -1,3 +1,5 @@
+https://www.marktechpost.com/free-resources/?fbclid=IwAR2jeZxmXuRu_YK3XamLVIrwBNw_PpoG7IgY5vIENSfAreUMmAEgFh0c6oc
+
 https://ai.googleblog.com/2020/12/end-to-end-transferable-deep-rl-for.html?m=1
 
 https://medium.com/@sunwoopark/slow-paper-glow-generative-flow-with-invertible-1x1-convolutions-837710116939
